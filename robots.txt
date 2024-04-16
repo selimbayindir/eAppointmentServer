@@ -1,0 +1,6 @@
+	  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+	  Null Warning leri exceptiona çenirir xml
+
+
+	  Domain Entity 
+	  Application Web Api istekleri alýnarak iþ kurallarý ile beraber response eden katmandýr
